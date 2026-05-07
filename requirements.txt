@@ -1,5 +1,6 @@
 streamlit
 gTTS
+openai
 pandas
 numpy
-openai
+edge-tts
