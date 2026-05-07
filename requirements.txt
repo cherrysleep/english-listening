@@ -1,6 +1,5 @@
 streamlit
 gTTS
-pygame
 pandas
 numpy
 openai
